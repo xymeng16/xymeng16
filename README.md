@@ -1,5 +1,5 @@
 ### Hi there, I'm Xiangyi Meng 👋
-A rust enthusiast, a Ph.D. student and an amateur Android-ROM maintainer.
+A C++/Rust enthusiast, a Ph.D. student and an quant newbie.
 
 <p>
 	<a href="https://github.com/gaulthiergain"><img width="49%" src="https://github-readme-stats-five-zeta-64.vercel.app/api?username=xymeng16&count_private=true&show_icons=true&hide_title=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" align="left"></a>
