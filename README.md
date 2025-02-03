@@ -1,5 +1,5 @@
 ### Hi there, I'm Xiangyi Meng 👋
-A C++/Rust enthusiast, a Ph.D. student and an quant newbie.
+A C++/Rust enthusiast, a Ph.D. in Computer Science and an quant newbie. Interested in high-performance parallel C++/Rust and CUDA Programming.
 
 <p>
 	<a href="https://github.com/gaulthiergain"><img width="49%" src="https://github-readme-stats-five-zeta-64.vercel.app/api?username=xymeng16&count_private=true&show_icons=true&hide_title=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" align="left"></a>
